@@ -22,12 +22,12 @@ The main aim of this project is to implement the working of a linked list data s
 
 2. **Build the project**:
    ```bash
-   gcc -o playlist main.c
+   gcc -o musicPlayer musicPlayer.c
    ```
 
 3. **Run the program**:
    ```bash
-   ./playlist
+   ./musicPlayer
    ```
 
 ## Usage
@@ -81,5 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - **Author**: Mayur Ahire
-- **GitHub**: [github.com/your-username](https://github.com/mayurahire06)
+- **GitHub**: [github.com/mayurahire06](https://github.com/mayurahire06)
 
