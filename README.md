@@ -1,7 +1,7 @@
 
 # Music Playlist Management System
 
-A simple music playlist management system implemented using a **Doubly Circular Linked List** in C. This project allows users to manage songs in a playlist with functionalities like adding, inserting, deleting, playing songs, and displaying the playlist.
+The main aim of this project is to implement the working of a linked list data structure. The linked list allows efficient management of songs in the music library and enables easy organization of playlists. By utilizing the linked list, the Console Music App provides a smooth and intuitive music listening experience for users.
 
 ## Features
 
@@ -11,10 +11,6 @@ A simple music playlist management system implemented using a **Doubly Circular 
 - **Play a song**: Play a song and navigate between songs in the playlist.
 - **Display the Playlist**: View all songs in the playlist.
 
-## Prerequisites
-
-- **Programming Language**: C
-- **Compiler**: Any C compiler (e.g., GCC)
 
 ## How to Run
 
@@ -73,10 +69,6 @@ A simple music playlist management system implemented using a **Doubly Circular 
    ----------------------------------------------------------
    ```
 
-6. **Exit**:
-   ```bash
-   6. Quit
-   ```
 
 ## Contribution
 
@@ -89,13 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - **Author**: Mayur Ahire
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **GitHub**: [github.com/your-username](https://github.com/mayurahire06)
 
----
-
-### Note:
-This project uses basic memory management and may not be suitable for large inputs due to the use of `gets()` for input. It is recommended to use `fgets()` for more secure input handling in a real-world scenario.
-
----
-
-Replace `your-username` with your actual GitHub username. This `README.md` file provides a concise guide on how to run the project and its features.
